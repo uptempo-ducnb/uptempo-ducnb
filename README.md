@@ -8,8 +8,8 @@ Web Developer
 * ✉️  You can contact me at [duc.nguyen@uptempo-global.com](mailto:duc.nguyen@uptempo-global.com)
 * 🚀  I'm currently working on [Uptempo Vietnam](http://https://uptempo-vn.com/)
 
-<a href="https://www.github.com/ducnb-uptempo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ducnb-uptempo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/uptempo-ducnb" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/uptempo-ducnb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
