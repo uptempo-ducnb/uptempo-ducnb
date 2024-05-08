@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Binh Duc
 =======================================================================================================================================
 
+<a href="https://app.daily.dev/nbduc"><img src="https://api.daily.dev/devcards/v2/8LwSmAJwbCIbpDQ09Mdsz.png?type=wide&r=y3q" width="652" alt="Binh Duc (Daniel)'s Dev Card"/></a>
+
 Web Developer
 -------------
 
